@@ -61,12 +61,12 @@ Ralph Abboud, ˙Ismail ˙Ilkan Ceylan, Thomas Lukasiewicz, and Tommaso Salvatori
 
 	> BoxE utilizes hyper-rectangles to obtain plausibility score for n-ary relational facts (tuple definition adopted).
 
-* **Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs.**
+* **G-MPNN: Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs.**
 Naganand Yadati. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/file/217eedd1ba8c592db97d0dbe54c7adfc-Paper.pdf)  [code](https://github.com/naganandy/G-MPNN-R)
   
 	> G-MPNN unifies message passing for multi-relational ordered hypergraphs, which provides representation for link prediction in knowledge hypergraph (tuple definition adopted).
 
-* **Role-Aware Modeling for N-ary Relational Knowledge Bases.**
+* **RAM: Role-Aware Modeling for N-ary Relational Knowledge Bases.**
 Yu Liu, Quanming Yao, and Yong Li. WWW 2021. [paper](https://doi.org/10.1145/3442381.3449874)  [code](https://github.com/liuyuaa/RAM)
 	
 	> RAM introduces latent space and role-aware pattern matrix for multilinear scoring function (role-value definition adopted).
@@ -76,8 +76,8 @@ Shiming Di, Quanming Yao, and Lei Chen. WWW 2021. [paper](xx)  [code](xx)
 
 	> Leveraging AutoML for link prediction in n-ary relational KBs (tuple definition adopted).
 
-* **Knowledge Hypergraph Embedding Meets Relational Algebra.**
-Bahare Fatemi,, Perouz Taslakian, David Vazquez, and David Poole. arxiv 2021. [paper](https://arxiv.org/pdf/2102.09557.pdf)  [code](https://github.com/baharefatemi/ReAlE)
+* **ReAIE: Knowledge Hypergraph Embedding Meets Relational Algebra.**
+Bahare Fatemi, Perouz Taslakian, David Vazquez, and David Poole. arxiv 2021. [paper](https://arxiv.org/pdf/2102.09557.pdf)  [code](https://github.com/baharefatemi/ReAlE)
 	
 	> ReAIE introduces the window concept to model the interaction of different elements of the embeddings, which are used to calculate dot scoring function (tuple definition adopted).
 
