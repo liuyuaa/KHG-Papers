@@ -67,7 +67,7 @@ Naganand Yadati. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020
 	> G-MPNN unifies message passing for multi-relational ordered hypergraphs, which provides representation for link prediction in knowledge hypergraph (tuple definition adopted).
 
 * **RAM: Role-Aware Modeling for N-ary Relational Knowledge Bases.**
-Yu Liu, Quanming Yao, and Yong Li. WWW 2021. [paper](https://doi.org/10.1145/3442381.3449874)  [code](https://github.com/liuyuaa/RAM)
+Yu Liu, Quanming Yao, and Yong Li. WWW 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449874)  [code](https://github.com/liuyuaa/RAM)
 	
 	> RAM introduces latent space and role-aware pattern matrix for multilinear scoring function (role-value definition adopted).
 
@@ -81,6 +81,11 @@ Bahare Fatemi, Perouz Taslakian, David Vazquez, and David Poole. arxiv 2021. [pa
 	
 	> ReAIE introduces the window concept to model the interaction of different elements of the embeddings, which are used to calculate dot scoring function (tuple definition adopted).
 
+* **Link Prediction on N-ary Relational Data Based on Relatedness Evaluation.**
+Saiping Guan, Xiaolong Jin, Jiafeng Guo, Yuanzhuo Wang, and Xueqi Cheng. TKDE 2021. [paper](https://ieeexplore.ieee.org/document/9405412)  [code](https://github.com/gsp2014/NaLP)
+	
+	> The journal extension of NaLP in WWW'19.
+	> 
 ## Public Dataset:
 * [JF17K](https://www.dropbox.com/sh/ryxohj363ujqhvq/AAAoGzAElmNnhXrWEj16UiUga?dl=0), firstly developed in **m-TransH**.
 * [WikiPeople](https://github.com/gsp2014/WikiPeople) firstly developed in **NaLP**.
